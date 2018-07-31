@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+	<node location="/images/intro/swf/iphone4-slider.swf" thumb="/images/intro/thumbs/iphone4-slider.jpg" />
+	<node location="/images/intro/swf/nylon-collection-S10.swf" thumb="/images/intro/thumbs/nylon-collection-S10.jpg" />
+	<node location="/images/intro/swf/neopreneplus-2.swf" thumb="/images/intro/thumbs/neopreneplus-2.jpg" />
+	<node location="/images/intro/swf/csc.swf" thumb="/images/intro/thumbs/csc.jpg" />
+	<node location="/images/intro/swf/ipad.swf" thumb="/images/intro/thumbs/ipad.jpg" />
+</archive>
